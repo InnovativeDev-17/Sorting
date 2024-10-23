@@ -1,5 +1,3 @@
-//Aryaman Pathak EnTCA2 031
-//selection sort
 #include <iostream>
 #include <algorithm>
 using namespace std;
