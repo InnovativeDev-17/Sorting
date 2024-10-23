@@ -1,6 +1,3 @@
-//Aryaman Pathak EnTCA2 031
-//insertion sort
-
 #include <iostream>
 using namespace std;
 
