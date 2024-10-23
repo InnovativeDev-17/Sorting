@@ -1,5 +1,3 @@
-//Aryaman Pathak EnTCA2 031
-//bubble sort
 #include <iostream>
 #include <algorithm>
 using namespace std;
